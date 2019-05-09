@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models\tc\citizens\face\female11/jill_facemap2"
+	"$bumpmap" 				"models/tnb/heads/jill_facemap_normal"
+
+
+}

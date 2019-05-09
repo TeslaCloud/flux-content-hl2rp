@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\tc\citizens\face\female08/hair_ashes4"
+	"$halflambert" 				"1"
+	"$translucent" 				"1"
+
+}

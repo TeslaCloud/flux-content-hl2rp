@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models\tc\citizens\face\female10/kate_facemap3"
+	"$halflambert" 	"1"
+}

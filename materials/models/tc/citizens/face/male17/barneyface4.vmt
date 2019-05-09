@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/tc/citizens/face/male17/barneyface4"
+	$halflambert 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture "				"models\tc\citizens\face\male11/hair_jb2"
+	$halflambert 1
+
+}

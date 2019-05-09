@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$baseTexture 			"models\tc\citizens\face\male14/mason_facemap2"
+	$bumpmap 				"models/tnb/heads/mason_facemap_normal"
+
+
+}

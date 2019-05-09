@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\tc\citizens\face\female10/hair_kate4"
+//	$nocull 1
+	$translucent 1
+	
+
+}
