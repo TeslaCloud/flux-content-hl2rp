@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" 		"models\tc\citizens\face\female11/hair_jill3"
-	"$bumpmap" 			"models/tnb/heads/hair_jill_normal"
-	"$halflambert" 		"1"
-	"$translucent" 		"1"
-	"$nocull" 			"1"
-}

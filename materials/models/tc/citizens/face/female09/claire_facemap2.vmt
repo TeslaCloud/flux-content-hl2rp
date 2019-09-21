@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" 		"models\tc\citizens\face\female09/claire_facemap2"
-	"$halflambert" 		"1"
-	"$nocull" 			"1"
-
-}

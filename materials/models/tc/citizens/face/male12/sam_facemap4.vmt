@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" 			"models\tc\citizens\face\male12/sam_facemap4"
-	"$bumpmap" 				"models/tnb/heads/sam_facemap_normal"
-}

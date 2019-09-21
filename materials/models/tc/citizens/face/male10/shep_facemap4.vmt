@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	$baseTexture 				"models\tc\citizens\face\male10/shep_facemap4"
-    "$bumpmap"     				"models/tnb/heads/shep_facemap_normal"
-	"$phong" 					"1"
-
-}
-
